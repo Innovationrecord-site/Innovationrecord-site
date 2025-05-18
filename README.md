@@ -1,16 +1,22 @@
-## Hi there 👋
+# Innovation Record - Site officiel
 
-<!--
-**Innovationrecord-site/Innovationrecord-site** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur le dépôt GitHub du site officiel du label musical Innovation Record.
 
-Here are some ideas to get you started:
+Ce site présente notre label, nos artistes, notre musique et nos contacts.  
+Il est conçu en HTML/CSS simple et hébergé gratuitement via GitHub Pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contenu
+
+- Page d'accueil avec logo et slogan  
+- Présentation du label  
+- Liste des artistes  
+- Section musique & vidéos  
+- Informations de contact  
+
+## Comment contribuer ?
+
+Tu peux proposer des améliorations ou corrections en ouvrant une issue ou un pull request.
+
+---
+
+© 2025 Innovation Record - Tous droits réservés.
